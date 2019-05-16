@@ -1,9 +1,9 @@
 var number = n
 function inc(n) {
-  ++number
+  number n += 1
 }
 function dec(n) {
-  --number
+  number n -= 1
 }
 function add(a, b) {
   return a + b
